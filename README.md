@@ -2,13 +2,13 @@
 
 
 ## Description
-This is my personal online portfolio `https://bryomajor.github.io/my-resume/`
+This is my personal online portfolio `
 
 
 ## Author
 
 
-* [**Brian Major**](https://github.com/bryomajor)
+* [**Essy Mwangi**](https://github.com/EssyMwangi)
 
 ## Features
 
@@ -32,7 +32,7 @@ As a user of the web application you will be able to:
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/bryomajor/my-resume.git
+        $ git clone 
         $ cd my-resume
         
 ## Technologies Used
@@ -45,10 +45,10 @@ This application is developed using mainly [HTML](https://getbootstrap.com/) and
 
 
 ## Support and Team
-Brian Major
+Essy Mwangi
 
 
-[Slack Me!](https://slack.com/intl/en-ke/)  @bryomajor
+
 
 
 ### License
